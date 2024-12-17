@@ -1,0 +1,30 @@
+# Ignore build directory
+/build/
+
+# Ignore CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ignore compiled object files
+*.o
+*.a
+*.so
+*.dylib
+
+# Ignore executables
+parser          # Change this to the name of your executable
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS Finder metadata
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
+
