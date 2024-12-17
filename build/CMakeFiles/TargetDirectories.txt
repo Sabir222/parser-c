@@ -1,0 +1,3 @@
+/home/sabir/Projects/transpiler_in_c/build/CMakeFiles/parser.dir
+/home/sabir/Projects/transpiler_in_c/build/CMakeFiles/edit_cache.dir
+/home/sabir/Projects/transpiler_in_c/build/CMakeFiles/rebuild_cache.dir
