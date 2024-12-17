@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/parser.dir/src/main.c.o CMakeFiles/parser.dir/src/utils.c.o -o parser 
